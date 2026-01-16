@@ -1,4 +1,4 @@
-## 👋 KrindalX
+## KrindalX
 
 [![GitHub followers](https://img.shields.io/github/followers/krindalx?style=social)](https://github.com/krindalx)
 [![Twitter Follow](https://img.shields.io/twitter/follow/krindalx?style=social)](https://twitter.com/krindalx)
