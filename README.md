@@ -1,5 +1,7 @@
 ## KrindalX
 
+[![GitHub followers](https://img.shields.io/github/followers/krindalx?style=social)](https://github.com/krindalx)
+
 I study crypto and AI systems from an infrastructure-first perspective.
 
 Focus areas:
