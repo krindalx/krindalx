@@ -18,6 +18,6 @@ I'm mapping the systems they'll run on.
 
 ### Recent Work
 - [slim-protocol-core](https://github.com/krindalx/slim-protocol-core) - Token-efficient data serialization
-- [slim-chain](https://github.com/krindalx/slim-chain) - AI-native blockchain with SLIM-RPC
-- [slim-rpc-gateway](https://github.com/krindalx/slim-rpc-gateway) - High-performance RPC proxy
-- [vap-protocol](https://github.com/krindalx/vap-protocol) - Verifiable Agent Protocol SDK
+- [SLIM-chain](https://github.com/krindalx/SLIM-chain) - AI-native blockchain with SLIM-RPC
+- [SLIM-rpc-gateway](https://github.com/krindalx/SLIM-rpc-gateway) - High-performance RPC proxy
+- [SLIM-vap-protocol](https://github.com/krindalx/SLIM-vap-protocol) - Verifiable Agent Protocol SDK
